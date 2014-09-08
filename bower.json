@@ -5,6 +5,9 @@
     "Benjamin Brown <ben.brown@factmint.com>"
   ],
   "description": "Draw a segment of a circle using Snap.svg",
+  "dependencies": {
+    "circle-utils": "https://git.assembla.com/descartes_diaphragm.circle-utils.git"
+  },
   "main": "dist/pie-segment.js",
   "moduleType": [
     "amd"
